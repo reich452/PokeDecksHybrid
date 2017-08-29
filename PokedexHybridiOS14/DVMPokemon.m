@@ -50,7 +50,7 @@
             [abilities addObject:abilityName];
         }
         
-        return [self initWithName: name identifier: identifer abilities: abilities]
+        return [self initWithName:name identifer:identifier abilities:abilities];
     }
 
 }
